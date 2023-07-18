@@ -25,7 +25,7 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
      <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
     </td>
     <td align='center'  width="170">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
