@@ -69,7 +69,7 @@
 <h1 align="center" href= https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg
 </h1>
 
-![snake animation](https://github.com/FabricioSilva-Dev/Fabriciosilva-Dev/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg)
 
 ### {Estou Utilizando} 
 <h1>
