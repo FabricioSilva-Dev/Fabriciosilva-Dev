@@ -53,7 +53,7 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="120">
     </td>
 </tr>
 </table>
