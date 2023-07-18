@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&weight=300&size=30&pause=1000&center=true&width=450&lines=%5B+Bem+vindo+ao+meu+perfil+Github+%5D;%7B+Ol%C3%A1%2C+me+chamo+Fabr%C3%ADcio+Silva.+%7D;(+Sou+f%C3%A3+da+%C3%A1rea+de+programa%C3%A7%C3%A3o!+)" alt="Typing SVG" /></h1>
 
 ### O quê estou fazendo 👋
@@ -50,3 +49,5 @@
 <h1>
 <a href="https://github.com/FabricioSilva-Dev"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FabricioSilva-Dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioSilva-Dev&layout=compact&langs_count=7&theme=transparent"/> 
 </h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabricioSilva-Dev&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
