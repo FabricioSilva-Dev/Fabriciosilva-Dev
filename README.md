@@ -10,45 +10,63 @@
 - 📫 Como entrar em contato comigo: ftecnico@msn.com...
 - ⚡ Curiosidade: Sou fã da tecnologia...
  ```
-
-<h2 align='center'><i>Estudando: Linguagens e Ferramentas</i></h2>
+### Languages and Tools 👋
 
 <table width="100">
 <tr>
-    <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">   
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
     </td>
-    <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> 
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
-    <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
     </td>
-     <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
     </td>
-    <td align='center'  width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="110">
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
 </tr>
 <tr>
-    <td align='center' width="170">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60"> 
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" width="110">
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
     </td>
-     <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="110">
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
     </td>
-    <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="110">
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120">
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
     </td>
 </tr>
 </table>
+
+
 
 <h1 align="center" href= https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg
 </h1>
