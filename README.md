@@ -36,7 +36,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60"> 
     </td>
     <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="110">
+        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" width="110">
     </td>
      <td align='center' width="170">
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="110">
@@ -48,10 +48,6 @@
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120">
     </td>
 </tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"  width="120">
-    </td>
 </table>
 
 <h1 align="center" href= https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg
