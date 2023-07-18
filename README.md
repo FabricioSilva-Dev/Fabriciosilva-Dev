@@ -61,7 +61,7 @@
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
     </td>
 </tr>
 </table>
