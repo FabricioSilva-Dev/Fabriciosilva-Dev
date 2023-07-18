@@ -52,19 +52,6 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"  width="120">
     </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="120">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="120">
-    </td>
-</tr>
 </table>
 
 <h1 align="center" href= https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg
