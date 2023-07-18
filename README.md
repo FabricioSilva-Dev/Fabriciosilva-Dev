@@ -16,7 +16,7 @@
 <table width="100">
 <tr>
     <td align='center' width="170">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">   
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg">   
     </td>
     <td align='center' width="170">
         <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> 
