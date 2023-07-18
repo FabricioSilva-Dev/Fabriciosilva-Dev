@@ -28,7 +28,7 @@
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg">
     </td>
     <td align='center'  width="170">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="110">
     </td>
 </tr>
 <tr>
