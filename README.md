@@ -50,4 +50,4 @@
 <a href="https://github.com/FabricioSilva-Dev"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FabricioSilva-Dev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioSilva-Dev&layout=compact&langs_count=7&theme=transparent"/> 
 </h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabricioSilva-Dev&theme=minimal)](https://github.com/FabricioSilva-Dev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FabricioSilva-Dev&theme=minimal)](https://github.com/FabricioSilva-Dev/FabricioSilva-Dev/github-readme-activity-graph)
