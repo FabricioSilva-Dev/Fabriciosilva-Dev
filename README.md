@@ -30,24 +30,24 @@
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="110">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
+        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="110">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="110">
     </td>
     <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="120">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"  width="120">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="120">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" width="120">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
