@@ -33,7 +33,7 @@
 </tr>
 <tr>
     <td align='center' width="170">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60"> 
     </td>
     <td align='center' width="170">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="110">
