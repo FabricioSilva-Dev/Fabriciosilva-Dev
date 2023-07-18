@@ -2,19 +2,67 @@
 
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&weight=300&size=30&pause=1000&center=true&width=450&lines=%5B+Bem+vindo+ao+meu+perfil+Github+%5D;%7B+Ol%C3%A1%2C+me+chamo+Fabr%C3%ADcio+Silva.+%7D;(+Sou+f%C3%A3+da+%C3%A1rea+de+programa%C3%A7%C3%A3o!+)" alt="Typing SVG" /></h1>
 
-### O quê estou fazendo 👋
-```
-- 🔭 No dia a dia estou trabalhando em Php, Javascript, Html e Mysql...
-- 🌱 Atualmente estou: estudando e aprendendo Frameworks...
-- 👯 Estou procurando: colaborar em algum projeto no desenvolvimento WEB...
-- 📫 Como entrar em contato comigo: ftecnico@msn.com...
-- ⚡ Curiosidade: Sou fã da tecnologia...
- ```
-###
+<h2 align='center'><i>Linguagens e Ferramentas</i></h2>
+
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">   
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+    <td align='center'  width="190">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+    </td>
+</tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+    </td>
+     <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+    </td>
+</tr>
+</table>
 
 <h1 align="center" href= https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg
 
 </h1>
+
+![snake animation](https://github.com/FabricioSilva-Dev/Fabriciosilva-Dev/blob/output/github-contribution-grid-snake.svg)
 
 ### {Ferramentas e Tecnologias}
 <h1>
