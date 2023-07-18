@@ -11,7 +11,7 @@
 - ⚡ Curiosidade: Sou fã da tecnologia...
  ```
 
-<h2 align='center'><i>Linguagens e Ferramentas</i></h2>
+<h2 align='center'><i>Estudando: Linguagens e Ferramentas</i></h2>
 
 <table width="100">
 <tr>
