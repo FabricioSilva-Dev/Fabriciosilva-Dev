@@ -49,7 +49,7 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
@@ -58,7 +58,7 @@
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
