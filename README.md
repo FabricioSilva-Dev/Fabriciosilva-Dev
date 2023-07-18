@@ -10,13 +10,13 @@
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">   
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> 
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
     </td>
     <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
@@ -24,10 +24,10 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60"> 
     </td>
     <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="110">
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
