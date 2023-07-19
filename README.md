@@ -66,9 +66,7 @@
 </tr>
 </table>
 
-<h1 align="center" href= https://github.com/FabricioSilva-Dev/FabricioSilva-Dev/blob/output/github-contribution-grid-snake.svg
-</h1>
-
+![snake animation](https://raw.githubusercontent.com/FabricioSilva-Dev/FabricioSilva-Dev/main/github-contribution-grid-snake2.svg)
 
 ### {Estou Utilizando} 
 <h1>
