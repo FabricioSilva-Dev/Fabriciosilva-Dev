@@ -70,6 +70,7 @@
 </h1>
 
 ![snake animation](https://github.com/FabricioSilva-Dev/FabricioSilva-Dev/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/FabricioSilva-Dev/FabricioSilva-Dev/blob/output/github-contribution-grid-snake2.svg)
 
 ### {Estou Utilizando} 
 <h1>
