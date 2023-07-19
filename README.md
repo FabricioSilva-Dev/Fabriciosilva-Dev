@@ -1,5 +1,5 @@
 ![snake animation](https://raw.githubusercontent.com/FabricioSilva-Dev/FabricioSilva-Dev/main/github-contribution-grid-snake2.svg)
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&weight=300&size=30&pause=1000&center=true&width=450&lines=%5B+Bem+vindo+ao+meu+perfil+Github+%5D;%7B+Ol%C3%A1%2C+me+chamo+Fabr%C3%ADcio+Silva.+%7D;(+Sou+f%C3%A3+da+%C3%A1rea+de+programa%C3%A7%C3%A3o!+)" alt="Typing SVG" /></h1>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ysabeau+Infant&weight=300&size=30&pause=1000&center=true&width=450&lines=%5B+Bem+vindo+ao+meu+perfil+Github+%5D;%7B+Ol%C3%A1%2C+me+chamo+Fabr%C3%ADcio+Silva.+%7D;(+Sou+f%C3%A3+da+%C3%A1rea+de+programa%C3%A7%C3%A3o!+)"alt="TypingSVG"/></h1>
 
 ### O quê estou fazendo 👋
 ```
@@ -10,7 +10,7 @@
 - ⚡ Curiosidade: Sou fã da tecnologia...
  ```
 ### Languages and Tools 👋
-
+<div>
 <table width="100">
 <tr>
     <td align='center' width="190">
@@ -64,6 +64,7 @@
     </td>
 </tr>
 </table>
+</div>
 
 ### Estou Utilizando 
 <h1>
@@ -71,8 +72,7 @@
 <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
 <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-          
+<img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>  
 </h1>
 
 ### Contatos
